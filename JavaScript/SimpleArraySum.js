@@ -1,3 +1,18 @@
+// Original problem: https://www.hackerrank.com/challenges/simple-array-sum/problem
+
+// Given an array of integers, find the sum of its elements.
+// simpleArraySum has the following parameter(s):
+
+// ar: an array of integers
+// Input Format: 
+
+// The first line contains an integer denoting the size of the array.
+// The second line contains space-separated integers representing the array's elements.
+
+// Output Format:
+// Print the sum of the array's elements as a single integer.
+
+
 'use strict';
 
 const fs = require('fs');
